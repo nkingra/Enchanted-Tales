@@ -1,0 +1,10 @@
+{
+"description": "serverless wordpress",
+	"scripts": {
+		"build": "diy-pwa build Enchanted-Tales",
+		"preview": "diy-pwa preview Enchanted-Tales"
+	},
+	"devDependencies": {
+		"diy-pwa": "latest"
+	}
+}
